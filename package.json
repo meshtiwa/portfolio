@@ -1,0 +1,16 @@
+{
+  "homepage": "https://meshtiwa.github.io/AnimeshPortfolio/",
+  "version": "0.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.3.5"
+  },
+  "dependencies": {
+    "three": "^0.129.0"
+  }
+}
