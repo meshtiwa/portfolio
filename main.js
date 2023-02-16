@@ -56,7 +56,7 @@ const sherbertTexture = new THREE.TextureLoader().load('redsherbert.jpg');
 scene.background = sherbertTexture;
 
 //avatar
-const animeshTexture = new THREE.TextureLoader().load('pic of me2.jpeg');
+const animeshTexture = new THREE.TextureLoader().load('picofme.jpg');
 const animesh = new THREE.Mesh(
   new THREE.BoxGeometry(3,3,3),
   new THREE.MeshBasicMaterial({map: animeshTexture})
