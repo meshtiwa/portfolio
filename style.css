@@ -25,6 +25,7 @@ main {
   padding: 120px 0px;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
+  border-radius: 25px;
 }
 
 h1, h2, h3, blockquote {
