@@ -69,18 +69,18 @@ canvas {
     border-radius: 25px;
     background: var(--dark-bg);
   }
-
+/* 
   bq-bg {
     background: var(--dark-bg);
     opacity: 0.2;
-  }
+  } */
 
   blockquote p {
     background: var(--dark-bg);
     color: white;
     padding: 7px;
-    font-size: 2rem;
-    display: inline;
+    font-size: 3.5rem;
+    display: flex;
     line-height: 1;
     border-radius: 25px;
   }
