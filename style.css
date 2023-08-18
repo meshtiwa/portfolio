@@ -71,8 +71,9 @@ canvas {
 
   blockquote p {
     color: black;
-    background-color: white;
-    font-size: 4rem;
+    padding: 7px;
+/*     background-color: white; */
+    font-size: 2rem;
     display: inline;
     line-height: 1;
     border-radius: 25px;
